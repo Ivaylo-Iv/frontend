@@ -6,6 +6,7 @@ html {
 }
 
 #title {
+  text-decoration: none;
   text-align: center;
   color: white;
   margin-top: 3rem;
